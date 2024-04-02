@@ -4,42 +4,42 @@ content.
 
 ## Features ⭐
 - Fine-tuning large language models
-- 
+- Multi-language Support
+- Content Analysis and Insights
+- Advanced Prompt Templates
 
 ## Requirements 🛠️
-- OpenCV
-- NumPy
-- Streamlit
-- TensorFlow or PyTorch
-- YOLOv8 Implementation
+- sentence-transformers
+- uvicorn
+- ctransformers
+- langchain
+- python-box
+- streamlit
 
 ## Usage 🚀
 1. Clone the repository:
 
-```
+
 git clone https://github.com/YourGitHubUsername/automated-fetal-brain-recognition.git
-```
+
 
 2. Navigate to the project directory
 3. Install the required dependencies
 4. Run the application:
-```
+
 streamlit run app.py
-```
+
 
 
 ## System Architecture:
-![image](https://github.com/212220230020-Grahamstanes/INTELLIGENTWRITINGASSISTANTFORRESEARCHANDBLOGS/assets/75235150/6983bc36-a931-4da1-a2fa-a2b852196a6c)
-
+![architec](https://github.com/Fawziya20/Automated-Fetal-Brain-Abnormality-Recognition/assets/75235022/164af627-c6d8-46cd-a8a5-eed9c628b850)
 
 
 ## Results 🖥️
-Detected Output🧠
-![Detected image](https://github.com/Fawziya20/Automated-Fetal-Brain-Abnormality-Recognition/assets/75235022/058f8860-8027-4d7e-b63b-63c66edaaae7)
-User Interface
-![User_interface](https://github.com/Fawziya20/Automated-Fetal-Brain-Abnormality-Recognition/assets/75235022/8d1d1528-73d3-4f12-a2de-1b7655a8dbab)
+![website blog](https://github.com/212220230020-Grahamstanes/INTELLIGENTWRITINGASSISTANTFORRESEARCHANDBLOGS/assets/75235150/2b51425e-5021-43b7-bd52-6c5a2f0b18b8)
+![blog](https://github.com/212220230020-Grahamstanes/INTELLIGENTWRITINGASSISTANTFORRESEARCHANDBLOGS/assets/75235150/a8e83d05-8d5a-4693-a62b-307c9778717c)
+
 
 ## License 📝
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
