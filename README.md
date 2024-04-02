@@ -29,7 +29,8 @@ streamlit run app.py
 
 
 ## System Architecture:
-![architec](https://github.com/Fawziya20/Automated-Fetal-Brain-Abnormality-Recognition/assets/75235022/164af627-c6d8-46cd-a8a5-eed9c628b850)
+![image](https://github.com/212220230020-Grahamstanes/INTELLIGENTWRITINGASSISTANTFORRESEARCHANDBLOGS/assets/75235150/6983bc36-a931-4da1-a2fa-a2b852196a6c)
+
 
 
 ## Results 🖥️
